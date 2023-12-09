@@ -1,4 +1,4 @@
-![App Screenshot](https://i.ibb.co/wWYvdMV/Snap-Forum-Reponsive-Screenshot.png)
+![App Screenshot](https://i.ibb.co/5GrTsbP/GITHUB-BANNER.png)
 
 ### Hi there 👋
 
